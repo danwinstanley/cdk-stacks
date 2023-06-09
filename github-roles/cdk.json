@@ -1,0 +1,16 @@
+{
+  "app": "python3 app.py",
+  "context": {
+    "stacks": {
+      "github-roles": {
+        "roles": [
+          {
+            "role_name": "WinstanleyAuRole",
+            "github_org": "danwinstanley",
+            "github_repo": "winstanley.au"
+          }
+        ]
+      }
+    }
+  }
+}
