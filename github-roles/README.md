@@ -1,6 +1,6 @@
 # GitHub Actions Roles
 
-Simple stack that sets up a GitHub Actions OIDC in your AWS account and creates you per-org and per-repo roles for use with the 
+Simple stack that sets up a GitHub Actions OIDC in your AWS account and creates you per-org and per-repo roles for use with the `aws-actions/configure-aws-credentials` action.
 
 See `cdk.json` for role configuration. You can add multiple roles by adding to the `roles` dictionary.
 
